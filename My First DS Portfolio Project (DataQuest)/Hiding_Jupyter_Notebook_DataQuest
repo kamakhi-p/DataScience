@@ -1,5 +1,0 @@
-For hiding jupyter notebook in DataQuest website:
-
--------------- type --> in console
-
-document.getElementsByClassName("Pane1")[0].style.width = "100%";
